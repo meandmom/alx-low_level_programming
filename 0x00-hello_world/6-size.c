@@ -6,10 +6,15 @@
 */
 int main(void)
 {
-printf("size of a char: %zu byte(s)\n", sizeof(chart));
-printf("size of an init: %zu byte(s)\n", sizeof(inttype));
-printf("size of a long int: %zu byte(s)\n", sizeof(longintt));
-printf("size of a long long int: %zu byte(s)\n", sizeof(longlongt));
-printf("size of a long float: %zu byte(s)\n", sizeof(floatt));
+	char a;
+	int b;
+	long int c;
+	long long init d;
+	float e;
+printf("size of a char: %zu byte(s)\n", sizeof(a));
+printf("size of an init: %zu byte(s)\n", sizeof(b));
+printf("size of a long int: %zu byte(s)\n", sizeof(c));
+printf("size of a long long int: %zu byte(s)\n", sizeof(d));
+printf("size of a float: %zu byte(s)\n", sizeof(e));
 return (0);
 }
