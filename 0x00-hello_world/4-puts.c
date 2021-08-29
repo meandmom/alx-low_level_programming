@@ -1,9 +1,9 @@
 #include <stdio.h>
 /*
 *
-*main - This function will print character using puts
+* main - This function will print character using puts
 *
-*Return: return always zero
+* Return: return always zero
 */
 int main(void)
 {
