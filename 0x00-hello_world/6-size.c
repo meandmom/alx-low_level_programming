@@ -6,11 +6,6 @@
 */
 int main(void)
 {
-char chart;
-int inttype;
-long int longintt;
-long long int longlongt;
-float floatt;
 printf("size of a char: %zu byte(s)\n", sizeof(chart));
 printf("size of an init: %zu byte(s)\n", sizeof(inttype));
 printf("size of a long int: %zu byte(s)\n", sizeof(longintt));
