@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*
-* main - This function will print character using puts
-* Return: return always zero
+* main - Prints ""Programming is like building a multilingual puzzle"
+* return: return always zero
 */
 int main(void)
 {
