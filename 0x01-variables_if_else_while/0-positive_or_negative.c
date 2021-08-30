@@ -1,7 +1,14 @@
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
-/* betty style doc goes there */
+#include <stdio.h>
+/**
+* main - assigns random number to int n
+*
+* Return: Always 0 (success)
+*/
+/**
+* betty style doc goes there
+*/
 int main(void)
 {
 	int n;
