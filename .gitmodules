@@ -1,0 +1,3 @@
+[submodule "0x17-doubly_linked_lists"]
+	path = 0x17-doubly_linked_lists
+	url = https://github.com/meandmom/alx-low_level_programming.git
