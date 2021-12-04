@@ -2,13 +2,13 @@
 /**
 * main - intery point
 *
-* Return: return 0 (success)
+* Return: Always 0 (success)
 */
 int main()
 {
 char ch;
-for(ch = 'a';ch <= 'z';ch++)
+for (ch = 'a';ch <= 'z';ch++)
 putchar(ch);
-putchar(\n)
+putchar('\n');
 return (0);
 }
